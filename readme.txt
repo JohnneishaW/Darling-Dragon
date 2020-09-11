@@ -6,3 +6,5 @@ Additional Game Features Attempted:
 * GUI for level completion trigger
 * Animated player - (dragon flaps wings every frame. Failed when respawning - it would respawn with the non-animated player.)
 * Random movement for enemies
+
+![](master/game-preview.PNG)
