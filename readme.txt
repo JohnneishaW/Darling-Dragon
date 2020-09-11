@@ -7,4 +7,4 @@ Additional Game Features Attempted:
 * Animated player - (dragon flaps wings every frame. Failed when respawning - it would respawn with the non-animated player.)
 * Random movement for enemies
 
-![alt text](https://github.com/JohnneishaW/Darling-Dragon/blob/master/game-preview.PNG)
+![](master/game-preview.PNG)
