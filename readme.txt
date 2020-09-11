@@ -7,4 +7,4 @@ Additional Game Features Attempted:
 * Animated player - (dragon flaps wings every frame. Failed when respawning - it would respawn with the non-animated player.)
 * Random movement for enemies
 
-![](master/game-preview.PNG)
+![](Images/"game-preview.PNG")
